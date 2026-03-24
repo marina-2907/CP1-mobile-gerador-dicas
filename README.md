@@ -25,8 +25,9 @@ O aplicativo tem como objetivo gerar dicas aleatórias para o usuário, ajudando
 
 ##  Como executar o projeto
 
-1. Clone o repositório:
 ```bash
+1. Clone o repositório:
+
 git clone https://github.com/SEU-USUARIO/cp1-mobile-gerador-dicas.git
 
 2 - Acesse a pasta:
