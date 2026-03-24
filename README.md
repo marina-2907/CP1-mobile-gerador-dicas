@@ -30,22 +30,25 @@ O aplicativo tem como objetivo gerar dicas aleatórias para o usuário, ajudando
 
 git clone https://github.com/SEU-USUARIO/cp1-mobile-gerador-dicas.git
 
-2 - Acesse a pasta:
+2. Acesse a pasta:
 cd cp1-mobile-gerador-dicas
 
-3 - Instale as dependências:
+3. Instale as dependências:
 npm install
 
-4 - Execute o projeto:
+4. Execute o projeto:
 npx expo start
 
-5 - Pressione a para abrir no Android Emulator
+5. Pressione a para abrir no Android Emulator
+
+```
 
 ## Resultado
-
 O aplicativo apresenta:
 
 Um título (Gerador de Dicas)
 Um ícone ilustrativo
 Uma dica exibida em destaque
+Um botão para atualizar a dica
+
 Um botão para atualizar a dica
