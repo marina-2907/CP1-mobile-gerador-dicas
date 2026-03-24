@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
+#  CP1 - Gerador de Dicas 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Marina Tamagnini Magalhães - RM 561786
 
-## Get started
+Este projeto foi desenvolvido como parte da atividade CP1 da disciplina de Mobile Development.
 
-1. Install dependencies
+##  Sobre o projeto
 
-   ```bash
-   npm install
-   ```
+O aplicativo tem como objetivo gerar dicas aleatórias para o usuário, ajudando na organização do dia a dia, estudos e bem-estar.
 
-2. Start the app
+##  Funcionalidades
 
-   ```bash
-   npx expo start
-   ```
+- Exibe uma dica aleatória ao abrir o aplicativo
+- Permite gerar uma nova dica ao clicar no botão
+- Interface simples e intuitiva
+- Layout moderno com cores suaves
 
-In the output, you'll find options to open the app in a
+##  Tecnologias utilizadas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
+- Expo
+- TypeScript
+- Android Studio (emulador)
+- VS Code
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+##  Como executar o projeto
 
-## Get a fresh project
-
-When you're ready, run:
-
+1. Clone o repositório:
 ```bash
-npm run reset-project
-```
+git clone https://github.com/SEU-USUARIO/cp1-mobile-gerador-dicas.git
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2 - Acesse a pasta:
+cd cp1-mobile-gerador-dicas
 
-## Learn more
+3 - Instale as dependências:
+npm install
 
-To learn more about developing your project with Expo, look at the following resources:
+4 - Execute o projeto:
+npx expo start
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+5 - Pressione a para abrir no Android Emulator
 
-## Join the community
+## Resultado
 
-Join our community of developers creating universal apps.
+O aplicativo apresenta:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Um título (Gerador de Dicas)
+Um ícone ilustrativo
+Uma dica exibida em destaque
+Um botão para atualizar a dica
